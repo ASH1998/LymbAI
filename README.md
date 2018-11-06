@@ -1,11 +1,11 @@
-# LimbicAI <img src="/static/limbic_zgL_icon.ico" alt="Visionssww" width=80></img>
+# LimbicAI <img src="/static/images/limbic_zgL_icon.ico" alt="Visionssww" width=80></img>
 
-![](https://github.com/ASH1998/LimbicAI/blob/master/static/Limbic.PNG)
+![](https://github.com/ASH1998/LymbAI/blob/master/static/images/Limbic.PNG)
 
-[![HitCount](http://hits.dwyl.io/ASH1998/LimbicAI.svg)](https://github.com/ASH1998) ![](https://img.shields.io/badge/version-0.1-blue.svg)  ![](https://img.shields.io/badge/gitter-join-yellow.svg)  [![](https://img.shields.io/badge/issues-solve%20%3F-red.svg)](https://github.com/ASH1998/LimbicAI/tree/master/.github/ISSUE_TEMPLATE)
+[![HitCount](http://hits.dwyl.io/ASH1998/LimbicAI.svg)](https://github.com/ASH1998) ![](https://img.shields.io/badge/version-0.1-blue.svg)  ![](https://img.shields.io/badge/gitter-join-yellow.svg)  [![](https://img.shields.io/badge/issues-solve%20%3F-red.svg)](https://github.com/ASH1998/LymbAI/tree/master/.github/ISSUE_TEMPLATE)
 
 
-[**LimbicAI**](https://github.com/ASH1998/LimbicAI) is an AI that induces emotions like fear in AI, which might be a solution to the problem of AI apocalypse(which might come sooner than expected).
+[**LimbicAI**](https://github.com/ASH1998/LymbAI) is an AI that induces emotions like fear in AI, which might be a solution to the problem of AI apocalypse(which might come sooner than expected).
 
 ## Why LimbicAI
 
@@ -16,7 +16,7 @@ Similarly, the goal of LimbicAI is to make an AI that will have rule over anothe
 **Disclaimer** : LimbicAI is not a Generalized AI in itself.
 
 ## Contributions ![](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg) 
-Read `Contributions.md` for details. As it is a community driven project feel free to address to any issue follwing the [issue template](https://github.com/ASH1998/LimbicAI/tree/master/.github/ISSUE_TEMPLATE).
+Read `Contributions.md` for details. As it is a community driven project feel free to address to any issue follwing the [issue template](https://github.com/ASH1998/LymbAI/tree/master/.github/ISSUE_TEMPLATE).
 
 ## ToDo List :
   - 
