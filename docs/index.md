@@ -1,5 +1,6 @@
 # LimbicAI 
-<img src="https://github.com/ASH1998/LymbAI/blob/master/static/images/Limbic.PNG" height="48" width="48" >
+![ico](/static/images/Limbic.PNG){:height="36px" width="36px"}
+<img src="https://github.com/ASH1998/LymbAI/blob/master/static/images/Limbic.PNG" height="200" width="200" >
 
 [![HitCount](http://hits.dwyl.io/ASH1998/LimbicAI.svg)](https://github.com/ASH1998) ![](https://img.shields.io/badge/version-0.1-blue.svg)  ![](https://img.shields.io/badge/gitter-join-yellow.svg)  [![](https://img.shields.io/badge/issues-solve%20%3F-red.svg)](https://github.com/ASH1998/LymbAI/tree/master/.github/ISSUE_TEMPLATE)
 
