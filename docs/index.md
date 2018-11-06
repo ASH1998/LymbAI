@@ -1,6 +1,6 @@
-# LimbicAI <img src="https://github.com/ASH1998/LymbAI/blob/master/static/images/limbic_zgL_icon.ico" alt="Visionww" style="width: 30%;">
+# LimbicAI <img src="https://github.com/ASH1998/LymbAI/blob/master/static/images/limbic_zgL_icon.ico" alt="icon" style="width: 30%;">
 
-<img src="https://github.com/ASH1998/LymbAI/blob/master/static/images/Limbic.PNG" alt="Visionww" style="width: 30%;">
+<img src="https://github.com/ASH1998/LymbAI/blob/master/static/images/Limbic.PNG" alt="Logo" style="width: 30%;">
 
 [![HitCount](http://hits.dwyl.io/ASH1998/LimbicAI.svg)](https://github.com/ASH1998) ![](https://img.shields.io/badge/version-0.1-blue.svg)  ![](https://img.shields.io/badge/gitter-join-yellow.svg)  [![](https://img.shields.io/badge/issues-solve%20%3F-red.svg)](https://github.com/ASH1998/LymbAI/tree/master/.github/ISSUE_TEMPLATE)
 
