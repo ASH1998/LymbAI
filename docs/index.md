@@ -1,13 +1,13 @@
-# LimbicAI <img src="/static/images/limbic_zgL_icon.ico" alt="Visionssww" width=80></img>
+# LimbicAI <img src="https://github.com/ASH1998/LymbAI/blob/master/static/images/limbic_zgL_icon.ico" alt="Visionssww" width=80></img>
 
-![](https://github.com/ASH1998/LymbAI/blob/master/static/images/Limbic.PNG)
+![LOGO](https://github.com/ASH1998/LymbAI/blob/master/static/images/Limbic.PNG)
 
 [![HitCount](http://hits.dwyl.io/ASH1998/LimbicAI.svg)](https://github.com/ASH1998) ![](https://img.shields.io/badge/version-0.1-blue.svg)  ![](https://img.shields.io/badge/gitter-join-yellow.svg)  [![](https://img.shields.io/badge/issues-solve%20%3F-red.svg)](https://github.com/ASH1998/LymbAI/tree/master/.github/ISSUE_TEMPLATE)
 
 
 [**LimbicAI**](https://github.com/ASH1998/LymbAI) is an AI that induces emotions like fear in AI, which might be a solution to the problem of AI apocalypse(which might come sooner than expected).
 
-## Why LimbicAI
+## Why LimbicAI ?
 
 The works of Limbic System in human brain are involved in motivation, emotion, learning, and memory. A part of the limbic system, the *Amygdala* is involved in many cognitive processes. It is also the part that induces fear into humans and make them more attentive towards their surroundings.
 
@@ -20,8 +20,13 @@ Read `Contributions.md` for details. As it is a community driven project feel fr
 
 ## ToDo List :
   - 
+  
   - 
+  
   -
+  
   -
+  
   -
+  
   -
