@@ -19,9 +19,4 @@ Similarly, the goal of LimbicAI is to make an AI that will have rule over anothe
 Read `Contributions.md` for details. As it is a community driven project feel free to address to any issue follwing the [issue template](https://github.com/ASH1998/LymbAI/tree/master/.github/ISSUE_TEMPLATE).
 
 ## ToDo List :
-  - 
-  - 
-  -
-  -
-  -
-  -
+Refer [todo.md]()
