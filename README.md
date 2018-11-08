@@ -20,3 +20,12 @@ Read `Contributions.md` for details. As it is a community driven project feel fr
 
 ## ToDo List :
 Refer [todo.md]()
+
+----------------------------------------------------------------------------
+## Work in progress :
+```This part is updated to show what works have been ongoing!!```
+1. **Problem of adversarial noise mis-classification**. A common problem to any DL model is that when a little noise is added to the gradient, the model will mis-classify the images; here below images using [inception model](https://www.tensorflow.org/tutorials/images/image_recognition).
+
+![mc](https://github.com/ASH1998/LymbAI/blob/master/static/adversarial_images/mc.PNG)
+![tiger](https://github.com/ASH1998/LymbAI/blob/master/static/adversarial_images/tiger.PNG)
+![elon](https://github.com/ASH1998/LymbAI/blob/master/static/adversarial_images/elon.PNG)
